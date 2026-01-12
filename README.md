@@ -20,7 +20,7 @@ Telegram-бот с интеграцией AI через OpenRouter API. Подд
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <https://github.com/C1eem/aiogram_bot>
+git clone https://github.com/C1eem/aiogram_bot
 cd aiogram_bot
 ```
 
